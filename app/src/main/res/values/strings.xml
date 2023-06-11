@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MQTTCHAT_DEMO</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="field_userid">Guest UserId</string>
+    <string name="field_userid_Action">Set Guest UserId</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="btn_register">Register</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="error_field_required">Field required !</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Add image</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="field_phone">Field phone</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+</resources>
