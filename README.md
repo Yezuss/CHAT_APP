@@ -1,10 +1,11 @@
 <p align="center">
  <h1 align="center">CHAT APP BEARO</h1>
 </p>
-## Introduction
+
+## ⭐ Introduction
 
 Purpose of this document is to fully and comprehensively describe the requirements of a chat software that allows users to communicate with each other. It clarifies the actors who interact with the system, the data constraints, and supports easier code writing, helping the development team to accurately build the system and specify its features. Additionally, this document assists in maintaining the system and improving its functions quickly and easily.
-## Experiments
+##  🤝 Experiments
 ### 1. Onboarding, Sign up & Sign in
 
 |            Chat Screen            |           Sign Up Screen            |              Sign in Screen               |
